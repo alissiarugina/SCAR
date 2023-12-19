@@ -195,8 +195,8 @@ a.nav-link{
 	display: flex;
 	flex-direction: column;
 	margin: 20px;
-	width: 600px;
-	height:400px;
+	width: 420px;
+	height:280px;
 	border-radius:12px;
     background:var(--main-decor-color);
 }
